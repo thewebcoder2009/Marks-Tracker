@@ -9,5 +9,6 @@ window.neetToppers = [
   { year: 2022, highest: 715 },
   { year: 2023, highest: 720 },
   { year: 2024, highest: 720 },
-  { year: 2025, highest: 686 } 
+  { year: 2025, highest: 686 },
+  { year: 2026, highest: 715 },
 ];
